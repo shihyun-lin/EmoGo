@@ -1,0 +1,4 @@
+fastapi[all]
+motor
+python-dotenv
+uvicorn
