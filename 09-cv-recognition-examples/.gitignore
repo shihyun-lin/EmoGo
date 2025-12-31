@@ -1,0 +1,16 @@
+# General ignores
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 03_HW14_taiwanese_faces specific ignores
+**/Taiwanese/
+**/TFEID/
+**/data/
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+
